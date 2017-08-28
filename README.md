@@ -1,3 +1,1 @@
-Here is the image embedded from Photobucket to test how the add-on works:
-
-![Test image](http://i239.photobucket.com/albums/ff167/LukeBurstow/dog_zpstojkfqvd.jpg)
+You can test the add-on [here](http://singletrackworld.com/forum/topic/anyone-had-issues-with-photobucket-stopping-image-embedding).
