@@ -1,1 +1,3 @@
-You can test the add-on [here](http://singletrackworld.com/forum/topic/anyone-had-issues-with-photobucket-stopping-image-embedding).
+### [<sub>⬇</sub> Photobucket Unlocker](https://github.com/JustOff/photobucket-unlocker/releases)
+
+**Photobucket Unlocker** - unlock access to embedded Photobucket images.
